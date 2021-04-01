@@ -1,0 +1,121 @@
+.menu{
+    background-color: #F8F9FA;
+    height: 300px;
+    border: 1rem solid;;
+}
+
+body{
+    background-color:	#ffffff;
+}
+
+main{
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.card{
+    width: 100px;
+    height: 450px;
+    float: left;
+    margin: 10px;
+    padding: 10px;
+    border-width:5px;
+    box-shadow: 8px 10px 2px 1px	rgb(134, 134, 134);
+    border-color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+
+}
+
+.discut{
+    width: 500px;
+    height: 200px;
+    float: left;
+    margin: 10px;
+    padding: 10px;
+    border-width:5px;
+    box-shadow: 10px 10px 2px 1px	rgb(134, 134, 134);
+    border-color: rgb(0, 108, 250);
+    background-color: rgb(255, 255, 255);
+
+}
+
+
+.navbar-brand{
+height: 150px;
+background-color: rgba(255, 255, 255, 0);
+}
+
+
+footer{
+    height: 250px;
+    width: auto;
+}
+
+h1{
+    color: rgb(22, 20, 117);
+}
+
+
+h5{
+    color: rgb(255, 68, 0);
+}
+
+.card-img-top {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.nav-item, nav-link {
+    
+    color:rgb(171, 228, 15);
+    
+}
+
+.card-text{
+    font-size: smaller;
+    
+}
+
+table,
+td {
+    border: 1px solid #333;
+}
+
+#rep{
+    width: 500px;
+}
+#reponse{
+   float: left;
+   min-width: 500px;
+   max-width: 500px;
+    border: 1px solid rgb(27, 26, 26);
+    margin-top: 10px;
+    word-wrap: break-word; 
+    padding: 10px;
+    background-color: rgb(253, 253, 253);
+
+
+}
+
+#repcard{
+    max-width: 500px;
+    border: 1px solid #333;
+    background-color: rgb(255, 255, 255);
+}
+#sujetrep{
+   
+
+}
+#titrerep{
+    width: 500px;
+    border: 1px solid #333;
+    background-color: rgb(245, 245, 245);
+    text-decoration: black;
+}
+
+#BJ{
+    color: brown;
+    text-decoration: underline overline black;
+}
+
